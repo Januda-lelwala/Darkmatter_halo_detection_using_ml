@@ -1,0 +1,4 @@
+darkenv/
+
+subhalo_dataset/images/**
+subhalo_dataset/labels/**
